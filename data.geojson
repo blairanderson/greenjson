@@ -3,547 +3,547 @@
   "features": [
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.999634, 39.751541] },
-    "properties": {"name":"1617 WAZEE STREET, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"1617 WAZEE STREET, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.96965, 39.777458] },
-    "properties": {"name":"3-D DENVER\\'S DISCREET DISPENSARY LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"3-D DENVER\\'S DISCREET DISPENSARY LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.933159, 39.7402] },
-    "properties": {"name":"4625 EAST COLFAX, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"4625 EAST COLFAX, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.963431, 39.788039] },
-    "properties": {"name":"5110 RACE, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"5110 RACE, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.994118, 39.737282] },
-    "properties": {"name":"5280 MEDS/WELLNESS"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"5280 MEDS/WELLNESS"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.012444, 39.731041] },
-    "properties": {"name":"A CUT OFF THE TOP MEDICAL MARIJUANA, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"A CUT OFF THE TOP MEDICAL MARIJUANA, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.994118, 39.736542] },
-    "properties": {"name":"ADVANCED MEDICAL ALTERNATIVES LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ADVANCED MEDICAL ALTERNATIVES LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.021881, 39.711159] },
-    "properties": {"name":"ALCC LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ALCC LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-106.051753, 39.508232] },
-    "properties": {"name":"ALPENGLOW BOTANICALS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ALPENGLOW BOTANICALS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-107.813088, 37.937752] },
-    "properties": {"name":"ALPINE WELLNESS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ALPINE WELLNESS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.466278, 39.865379] },
-    "properties": {"name":"ALTERNATIVE MEDICAL SUPPLIES LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ALTERNATIVE MEDICAL SUPPLIES LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.971848, 39.73695] },
-    "properties": {"name":"ALTERNATIVE MEDICINE ON CAPITOL HILL"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ALTERNATIVE MEDICINE ON CAPITOL HILL"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.994209, 39.746738] },
-    "properties": {"name":"ALTERNATIVE MEDICINE ON THE MALL, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ALTERNATIVE MEDICINE ON THE MALL, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.88485, 39.654369] },
-    "properties": {"name":"ALTITUDE WELLNESS CENTER LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ALTITUDE WELLNESS CENTER LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.513076, 39.799124] },
-    "properties": {"name":"ANNIE\\'S TOBACCO EMPORIUM, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ANNIE\\'S TOBACCO EMPORIUM, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.69556, 39.713534] },
-    "properties": {"name":"AREN & DAVE\\'S DREAM, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"AREN & DAVE\\'S DREAM, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-106.09494, 39.587929] },
-    "properties": {"name":"BIOENERGETIC HEALING CENTER LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"BIOENERGETIC HEALING CENTER LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.991608, 39.904598] },
-    "properties": {"name":"BOTANACARE LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"BOTANACARE LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.979507, 39.763088] },
-    "properties": {"name":"BOTANICO, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"BOTANICO, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-106.045837, 39.47979] },
-    "properties": {"name":"BRECKENRIDGE CANNABIS CLUB LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"BRECKENRIDGE CANNABIS CLUB LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.053253, 39.753319] },
-    "properties": {"name":"BUD MED HEALTH CENTERS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"BUD MED HEALTH CENTERS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.98758, 39.67327] },
-    "properties": {"name":"CAM CORP"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"CAM CORP"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.000221, 39.706661] },
-    "properties": {"name":"CANNABIS KING, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"CANNABIS KING, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.950996, 39.721249] },
-    "properties": {"name":"CAREGIVERS FOR LIFE LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"CAREGIVERS FOR LIFE LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.002991, 40.57756] },
-    "properties": {"name":"CHOICE ORGANICS, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"CHOICE ORGANICS, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.967842, 39.678478] },
-    "properties": {"name":"CITI-MED, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"CITI-MED, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.919548, 39.67844] },
-    "properties": {"name":"CJJ SERVICES, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"CJJ SERVICES, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.687447, 40.396648] },
-    "properties": {"name":"CLOUD 9 CAREGIVERS"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"CLOUD 9 CAREGIVERS"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-107.22049, 39.409199] },
-    "properties": {"name":"CMED, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"CMED, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.98757, 39.679433] },
-    "properties": {"name":"CO-AGRONOMICS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"CO-AGRONOMICS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.927231, 39.740082] },
-    "properties": {"name":"COLORADO CARE FACILITY, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"COLORADO CARE FACILITY, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.966721, 39.78178] },
-    "properties": {"name":"COLORADO HEALTH CONSULTANTS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"COLORADO HEALTH CONSULTANTS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-107.212367, 39.40053] },
-    "properties": {"name":"COLORADO PRODUCT SERVICES"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"COLORADO PRODUCT SERVICES"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.016565, 39.72023] },
-    "properties": {"name":"COLORADO WELLNESS CENTERS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"COLORADO WELLNESS CENTERS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.98757, 39.679412] },
-    "properties": {"name":"COLORADO WELLNESS INC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"COLORADO WELLNESS INC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.00238, 39.711189] },
-    "properties": {"name":"COMPASSIONATE CARE GIVERS, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"COMPASSIONATE CARE GIVERS, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.000504, 39.750832] },
-    "properties": {"name":"COMPASSIONATE CARE GIVERS, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"COMPASSIONATE CARE GIVERS, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.991867, 39.752331] },
-    "properties": {"name":"COMPASSIONATE CARE GIVERS, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"COMPASSIONATE CARE GIVERS, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-106.818207, 39.18792] },
-    "properties": {"name":"COOPER MASON VENTURES LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"COOPER MASON VENTURES LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.000035, 39.72569] },
-    "properties": {"name":"CURE MEDICAL PHARM INC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"CURE MEDICAL PHARM INC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.98757, 39.675627] },
-    "properties": {"name":"DELTA 9 ALTERNATIVE MEDICINE LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"DELTA 9 ALTERNATIVE MEDICINE LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.99485, 39.765179] },
-    "properties": {"name":"DENCO, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"DENCO, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.945923, 39.786308] },
-    "properties": {"name":"DENVER DISPENSARY, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"DENVER DISPENSARY, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.9875, 39.71669] },
-    "properties": {"name":"DENVER RELIEF LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"DENVER RELIEF LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.987568, 39.682566] },
-    "properties": {"name":"DGS, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"DGS, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.98616, 39.73164] },
-    "properties": {"name":"DISCOUNT MEDICAL MARIJUANA"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"DISCOUNT MEDICAL MARIJUANA"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.96254, 39.73999] },
-    "properties": {"name":"DISCOUNT MEDICAL MARIJUANA"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"DISCOUNT MEDICAL MARIJUANA"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.979150, 39.754128] },
-    "properties": {"name":"DKC, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"DKC, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.003273, 39.76928] },
-    "properties": {"name":"DOCTORS ORDERS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"DOCTORS ORDERS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.98751, 39.687877] },
-    "properties": {"name":"EVERGREEN APOTHECARY, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"EVERGREEN APOTHECARY, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.5327, 39.744572] },
-    "properties": {"name":"EVER-GREEN HERBAL REMEDIES, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"EVER-GREEN HERBAL REMEDIES, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.907677, 39.771961] },
-    "properties": {"name":"FLAVORED ESSENTIALS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"FLAVORED ESSENTIALS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.875351, 39.708321] },
-    "properties": {"name":"F-SQUARED INDUSTRIES, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"F-SQUARED INDUSTRIES, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.987388, 39.683621] },
-    "properties": {"name":"GANJA GOURMET, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"GANJA GOURMET, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.990821, 39.692346] },
-    "properties": {"name":"GG MERCANTILE"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"GG MERCANTILE"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.846947, 39.780232] },
-    "properties": {"name":"GOLDEN MEDS, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"GOLDEN MEDS, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.505064, 39.800758] },
-    "properties": {"name":"GREEN GRASS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"GREEN GRASS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.928337, 39.740219] },
-    "properties": {"name":"GREENER PASTURE COMPASSION CENTER, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"GREENER PASTURE COMPASSION CENTER, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.06076, 39.75301] },
-    "properties": {"name":"GREENWERKZ, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"GREENWERKZ, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-106.061858, 39.282758] },
-    "properties": {"name":"HCH2, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"HCH2, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.98757, 39.670062] },
-    "properties": {"name":"HERBAL ALTERNATIVES LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"HERBAL ALTERNATIVES LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.941612, 39.78381] },
-    "properties": {"name":"HERB\\'S NEST, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"HERB\\'S NEST, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.00032, 39.695309] },
-    "properties": {"name":"HIGH COUNTRY SUPPLY, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"HIGH COUNTRY SUPPLY, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.033699, 39.762119] },
-    "properties": {"name":"HIGHLANDS WELLNESS CENTER, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"HIGHLANDS WELLNESS CENTER, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.942139, 39.68568] },
-    "properties": {"name":"HOLLY MEDICINAL SERVICES, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"HOLLY MEDICINAL SERVICES, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.979889, 39.742809] },
-    "properties": {"name":"IVITA WELLNESS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"IVITA WELLNESS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.968422, 39.772629] },
-    "properties": {"name":"IVITA WELLNESS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"IVITA WELLNESS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.929321, 39.769878] },
-    "properties": {"name":"JGB VENTURES LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"JGB VENTURES LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.035652, 39.638561] },
-    "properties": {"name":"JOIS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"JOIS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.989647, 39.743271] },
-    "properties": {"name":"JS INVESTMENTS"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"JS INVESTMENTS"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.998001, 39.692509] },
-    "properties": {"name":"KAYAK CORPORATION"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"KAYAK CORPORATION"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.992233, 39.69035] },
-    "properties": {"name":"KAZIMER, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"KAZIMER, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.922149, 39.771811] },
-    "properties": {"name":"LIGHTSHADE LABS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"LIGHTSHADE LABS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.039854, 39.70623] },
-    "properties": {"name":"LIVE GREEN CONSULTING, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"LIVE GREEN CONSULTING, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.986488, 39.730419] },
-    "properties": {"name":"MAGNA MARKETING, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MAGNA MARKETING, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.704323, 38.323738] },
-    "properties": {"name":"MARISOL THERAPEUTICS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MARISOL THERAPEUTICS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.973396, 39.744049] },
-    "properties": {"name":"MAYFLOWER GROUP, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MAYFLOWER GROUP, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.914543, 39.678459] },
-    "properties": {"name":"MEDICINAL WELLNESS CENTER LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MEDICINAL WELLNESS CENTER LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.056303, 39.77659] },
-    "properties": {"name":"MEDICINAL WELLNESS CENTER LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MEDICINAL WELLNESS CENTER LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.852638, 39.783581] },
-    "properties": {"name":"MEDICINE MAN PRODUCTION CORPORATION"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MEDICINE MAN PRODUCTION CORPORATION"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.893051, 39.7402] },
-    "properties": {"name":"METRO CANNABIS INC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"METRO CANNABIS INC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.863274, 39.780201] },
-    "properties": {"name":"METROPOLIS MEDICAL, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"METROPOLIS MEDICAL, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.993607, 39.77322] },
-    "properties": {"name":"MGI INC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MGI INC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.599655, 39.764504] },
-    "properties": {"name":"MILAGRO WELLNESS HEALING LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MILAGRO WELLNESS HEALING LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.025238, 39.744202] },
-    "properties": {"name":"MILE HIGH MEDICAL CANNABIS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MILE HIGH MEDICAL CANNABIS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.990184, 39.751913] },
-    "properties": {"name":"MILE HIGH MEDICAL, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MILE HIGH MEDICAL, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.02507, 39.688332] },
-    "properties": {"name":"MILE HIGH THERAPEUTIC NETWORK LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MILE HIGH THERAPEUTIC NETWORK LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.986031, 39.759338] },
-    "properties": {"name":"MMD OF COLORADO LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MMD OF COLORADO LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.965927, 39.772381] },
-    "properties": {"name":"MMD OF COLORADO LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MMD OF COLORADO LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.987543, 39.685198] },
-    "properties": {"name":"MMST, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"MMST, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-106.859571, 40.508984] },
-    "properties": {"name":"NATURAL CHOICE CO-OP"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"NATURAL CHOICE CO-OP"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-106.290932, 39.252599] },
-    "properties": {"name":"NATURAL HIGH LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"NATURAL HIGH LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.968979, 39.740021] },
-    "properties": {"name":"NATURES CURE III, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"NATURES CURE III, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.042878, 39.68948] },
-    "properties": {"name":"NATURES CURE LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"NATURES CURE LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.685509, 40.394541] },
-    "properties": {"name":"NATURE\\'S HERBS & WELLNESS CENTER"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"NATURE\\'S HERBS & WELLNESS CENTER"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-107.810066, 37.936199] },
-    "properties": {"name":"NEW WORLD ALTERNATIVE HEALTHCARE LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"NEW WORLD ALTERNATIVE HEALTHCARE LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.025017, 39.71788] },
-    "properties": {"name":"NORTH FEDERAL, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"NORTH FEDERAL, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.053238, 39.748428] },
-    "properties": {"name":"NORTHERN LIGHTS NATURALS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"NORTHERN LIGHTS NATURALS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.940697, 39.665829] },
-    "properties": {"name":"NUTRITIONAL ELEMENTS, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"NUTRITIONAL ELEMENTS, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.510521, 39.96188] },
-    "properties": {"name":"O LIMITED"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"O LIMITED"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.99781, 39.750252] },
-    "properties": {"name":"ORGANIC GREENS, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ORGANIC GREENS, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-106.051758, 39.507439] },
-    "properties": {"name":"ORGANIX, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ORGANIX, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.977882, 39.725632] },
-    "properties": {"name":"PAIN MANAGEMENT OF GOVERNORS PARK, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"PAIN MANAGEMENT OF GOVERNORS PARK, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.98757, 39.675804] },
-    "properties": {"name":"PATIENTS CHOICE OF COLORADO, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"PATIENTS CHOICE OF COLORADO, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.963226, 39.89949] },
-    "properties": {"name":"PHYSICIAN PREFERRED PRODUCTS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"PHYSICIAN PREFERRED PRODUCTS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.718402, 38.328968] },
-    "properties": {"name":"PUEBLO WEST ORGANICS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"PUEBLO WEST ORGANICS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.959287, 39.785911] },
-    "properties": {"name":"RIVERROCK LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"RIVERROCK LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-106.85924, 40.508622] },
-    "properties": {"name":"RK ENTERPRISES LTD"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"RK ENTERPRISES LTD"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.018204, 39.711182] },
-    "properties": {"name":"ROCKY MOUNTAIN CAREGIVERS INC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ROCKY MOUNTAIN CAREGIVERS INC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.942932, 39.773621] },
-    "properties": {"name":"ROCKY MOUNTAIN FARMACY INC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"ROCKY MOUNTAIN FARMACY INC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.025169, 39.733131] },
-    "properties": {"name":"SENSE OF HEALING LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"SENSE OF HEALING LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.682709, 39.761002] },
-    "properties": {"name":"SERENE WELLNESS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"SERENE WELLNESS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.048921, 39.699843] },
-    "properties": {"name":"STONE T.M.C., LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"STONE T.M.C., LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.991051, 39.75415] },
-    "properties": {"name":"SUMMIT WELLNESS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"SUMMIT WELLNESS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.475414, 39.40602] },
-    "properties": {"name":"SUNRISE SOLUTIONS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"SUNRISE SOLUTIONS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.982681, 39.74004] },
-    "properties": {"name":"SWEETWATER PARTNERS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"SWEETWATER PARTNERS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-107.812393, 37.93589] },
-    "properties": {"name":"TELLURIDE GREEN ROOM LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"TELLURIDE GREEN ROOM LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.880442, 39.65306] },
-    "properties": {"name":"TETRA HYDRO CENTER LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"TETRA HYDRO CENTER LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.020844, 39.769272] },
-    "properties": {"name":"THE GIVING TREE OF DENVER LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"THE GIVING TREE OF DENVER LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.92469, 39.77816] },
-    "properties": {"name":"THE GREEN SOLUTION LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"THE GREEN SOLUTION LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.981698, 39.903052] },
-    "properties": {"name":"THE GREEN SOLUTION LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"THE GREEN SOLUTION LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.642626, 38.164997] },
-    "properties": {"name":"THE GREENER SIDE CAREGIVING AND WELLNESS LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"THE GREENER SIDE CAREGIVING AND WELLNESS LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.98758, 39.681819] },
-    "properties": {"name":"THE HERBAL CENTER, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"THE HERBAL CENTER, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.98278, 39.698879] },
-    "properties": {"name":"THE HERBAL CURE LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"THE HERBAL CURE LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.498356, 39.74172] },
-    "properties": {"name":"THE KINE MINE LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"THE KINE MINE LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.025284, 39.750809] },
-    "properties": {"name":"THE PURPLE DRAGON, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"THE PURPLE DRAGON, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.025223, 39.747829] },
-    "properties": {"name":"THE TEA POT, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"THE TEA POT, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.940935, 39.78725] },
-    "properties": {"name":"TIMBERLINE HERBAL CLINIC AND WELLNESS CENTER, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"TIMBERLINE HERBAL CLINIC AND WELLNESS CENTER, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.964706, 39.77208] },
-    "properties": {"name":"TMED LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"TMED LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.908917, 39.67845] },
-    "properties": {"name":"TREATMENTS UNLIMITED, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"TREATMENTS UNLIMITED, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-106.070892, 39.629002] },
-    "properties": {"name":"TZ FINANCIAL, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"TZ FINANCIAL, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.973457, 39.673401] },
-    "properties": {"name":"URBAN CANNABIS, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"URBAN CANNABIS, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.98758, 39.680183] },
-    "properties": {"name":"WALKING RAVEN, LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"WALKING RAVEN, LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.991731, 39.711301] },
-    "properties": {"name":"WANNA LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"WANNA LLC"}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-104.918673, 39.740021] },
-    "properties": {"name":"WDG, INC."}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"WDG, INC."}
     },
    {"type": "Feature", 
     "geometry": {"type": "Point", "coordinates": [-105.019814, 39.729] },
-    "properties": {"name":"WESTERN REMEDIES LLC"}
+    "properties": {"marker-symbol": "park2", "marker-color": "#2ecc71", "name":"WESTERN REMEDIES LLC"}
   }
    ]
 }
